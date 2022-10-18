@@ -15,7 +15,11 @@ Brendan Frisby
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=bfrisbyh92&color=red&style=flat)](https://komarev.com/ghpvc/?username=bfrisbyh92&style=plastic)
 
-:wave: Hello! I'm Brendan. This is my profile for misc things. Right now I'm using it for mobile hacking and pen testing on Un rooted Androids using nethunter. Always nice to have an extra account to login. 
+:wave: Hello! I'm Brendan. This is my profile for misc things. Right now I'm using it for mobile hacking and pen testing on my unrooted android. 
+
+I plan to use this profile for materials I'd like to hold on to, but maybe don't want in my professional portfolio. Things that are not career related but rather me personally interested and cannot get enough of certain topics. I plan to start a Youtube channel soon, to put all the tools I come across on display for other people. I see other guys on Youtube doing well, and I see the topics I get into by myself daily, and would love to share these experiences with the world, hopefully making other people better with free education. I believe that I have a truly unlimited amount of content I could create because my curiousity stays active 247/365, I cannot help it, I'm weird, thanks I know... 
+
+Always willing to connect, please follow, fork, star, message, or reach out I'm always open. 
 
 
 
