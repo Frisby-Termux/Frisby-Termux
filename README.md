@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="funny GIF" width="200px">
 </br>
-<a href="https://brendanhayesfrisby.netlify.app">
+<a href="https://brendanhayesfrisby.vercel.app">
 Brendan Frisby
 </a>
 </h1>
@@ -17,10 +17,11 @@ Brendan Frisby
 
 :wave: Hello! I'm Brendan. This is my profile for misc things. Right now I'm using it for mobile hacking and pen testing on my unrooted android. 
 
-I plan to use this profile for materials I'd like to hold on to, but maybe don't want in my professional portfolio. Things that are not career related but rather me personally interested and cannot get enough of certain topics. I plan to start a Youtube channel soon, to put all the tools I come across on display for other people. I see other guys on Youtube doing well, and I see the topics I get into by myself daily, and would love to share these experiences with the world, hopefully making other people better with free education. I believe that I have a truly unlimited amount of content I could create because my curiousity stays active 247/365, I cannot help it, I'm weird, thanks I know... 
+I plan to use this profile for hacking material and scripts, social engineering, tools I want to hold on to and/or inspect how they work, anything I'm personally interested in but don't want to have stored on a Github I use for professional things. 
 
 Always willing to connect, please follow, fork, star, message, or reach out I'm always open. 
 
+[Check out my blog!](bfblog.vercel.app)
 
 
 <div align="center">
