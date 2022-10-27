@@ -21,7 +21,7 @@ I plan to use this profile for hacking material and scripts, social engineering,
 
 Always willing to connect, please follow, fork, star, message, or reach out I'm always open. 
 
-[Check out my blog!](bfblog.vercel.app)
+[Check out my blog!](https://bfblog.vercel.app)
 
 
 <div align="center">
